@@ -211,13 +211,13 @@
 ## 5.5 修改用户信息
 ![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/6.png)
 ## 5.6 购买会员
-![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/raw/master/购买会员.png)
+![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/blob/master/7.png)
 ## 5.7 求助
-
+![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/blob/master/8.png)
 ## 5.8 提供帮助
-
+![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/blob/master/9.png)
 ## 5.9 直播
-
+![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/blob/master/10.png)
 
 
 
