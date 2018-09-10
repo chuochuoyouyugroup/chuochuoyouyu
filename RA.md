@@ -212,7 +212,7 @@
 ## 5.5 修改用户信息
 
 ## 5.6 购买会员
-![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/raw/master/img/购买会员.png)
+![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/raw/master/购买会员.png)
 ## 5.7 求助
 
 ## 5.8 提供帮助
