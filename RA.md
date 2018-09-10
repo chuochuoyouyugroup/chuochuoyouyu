@@ -209,8 +209,7 @@
 ## 5.5 修改用户信息
 
 ## 5.6 购买会员
-
-
+http://github.com/dingdi0353151510/chuochuoyouyu/raw/master/C:\Users\0.0\Desktop/购买会员.png
 ## 5.7 求助
 
 ## 5.8 提供帮助
