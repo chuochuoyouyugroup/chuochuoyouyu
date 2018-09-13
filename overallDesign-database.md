@@ -17,8 +17,12 @@
 ### 字段列表
 序号|中文名称|列名|数据类型|长度
 ---|:--:|---:|---:|---:
-1|用户昵称|userName
-2|用户名|userId
-3|密码|passWord
-4|身份证|idCard
-5||liveTable
+1|用户名|userId|VarChar|36
+2|用户昵称|userName|VarChar|36
+3|密码|passWord|VarChar|50
+4|身份证|idCard|Int|50
+5|年龄|age|int|5
+6|兴趣语言|languageType|VarChar|10
+7|地址|address|VarChar|40
+
+
